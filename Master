@@ -1,0 +1,13 @@
+#include <Servo.h>
+Servo servo1
+Servo servo2
+const int servoPin = 3;
+const int servoPin = 5;
+
+void setup() {
+  
+}
+
+void loop() {
+
+}
